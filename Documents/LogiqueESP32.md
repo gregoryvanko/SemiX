@@ -6,5 +6,5 @@
 | EauECS | ECS de l'eau du bac|
 
 ## Setup ESP32
-Initialisation du port UART pour le debug
-Initialisation des GPIO
+Initialisation du port UART pour le debug  
+Initialisation des GPIO  
