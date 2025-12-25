@@ -7,4 +7,4 @@
 
 ## Setup ESP32
 Initialisation du port UART pour le debug  
-Initialisation des GPIO  
+Initialisation des GPIO
